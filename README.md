@@ -116,7 +116,7 @@ sns.scatterplot(x="total_bill", y="tip", data=df)
 plt.title("Correlation between Tip Amount and Total Bill Amount")
 
 plt.show()
-# OUPUT
+# OUTPUT
 ![op1](https://github.com/Thirisaa/Ex-08-Data-Visualization_1/assets/112301582/16739396-95f5-4718-a12e-880819742785)
 ![op2](https://github.com/Thirisaa/Ex-08-Data-Visualization_1/assets/112301582/dae48bff-8de6-4e08-84dd-61e4f14a7eb0)
 ![op3](https://github.com/Thirisaa/Ex-08-Data-Visualization_1/assets/112301582/7ba5c454-d644-4cf0-b411-7b5e0485c846)
